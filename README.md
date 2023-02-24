@@ -1,6 +1,8 @@
 <div align="center">
 <h1>WALLPAPERS</h1>
 <b>Weebs</b> wallapers that i use</br>
+<img src="https://img.shields.io/github/repo-size/Jillazquez/wallpapers?color=purple&label=SIZE&logo=Github&style=for-the-badge"></br>
+
 
 ## If you are the original creator and would like for me to remove your work, please let me know.
 Format: jpg, png</br>
