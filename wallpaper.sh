@@ -17,7 +17,7 @@ case "$CURRENT_DESKTOP" in
     fi
     ;;
   *)
-    notify-send "Error: $(basename "$0")" "This script does not support $CURRENT_DESKTOP."
+    notify-send "Error: $(basename "$0")" "Este Script no soporta tu entorno de escritorio."
     exit 1
     ;;
 esac
