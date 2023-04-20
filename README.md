@@ -23,4 +23,19 @@ Format: jpg, png</br>
 <h2> snowy-day-girl.png</h2>  </hr>
 <img src="./anime/snowy-day-girl.png">
 
+## Mujer Katana 
+<hr>
+<img src="./anime/mujer-katana.webp">
+
+## Girl Chilling
+<hr>
+<img src ="./anime/anime-girl-chilling-at-balcony-4k-de.jpg">
+
+## Mujer Caida
+<hr>
+<img src="./anime/mujer-cielo-caida.jpg">
+
+## Mujer Coche AE86
+<hr>
+<img src="./anime/mujer-coche-japones.jpg">
 
