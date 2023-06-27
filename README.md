@@ -1,6 +1,6 @@
 <div align="center">
 <h1>WALLPAPERS</h1>
-<b>Weebs</b> wallapers that i use</br>
+<b>Weebs</b> wallapers that i use actualized last update on June 27</br>
 <img src="https://img.shields.io/github/repo-size/Jillazquez/wallpapers?color=purple&label=SIZE&logo=Github&style=for-the-badge"></br>
 
 
