@@ -8,7 +8,7 @@ case "$CURRENT_DESKTOP" in
   Cinnamon)
     gsettings set org.cinnamon.desktop.background picture-uri "file://$WALLPAPER_DIR/$RANDOM_PICTURE"
     gsettings set org.cinnamon.desktop.background picture-uri-dark "file://$WALLPAPER_DIR/$RANDOM_PICTURE"
-  ;;
+    ;;
   Gnome)
     gsettings set org.gnome.desktop.background picture-uri "file://$WALLPAPER_DIR/$RANDOM_PICTURE"
     gsettings set org.gnome.desktop.background picture-uri-dark "file://$WALLPAPER_DIR/$RANDOM_PICTURE"
